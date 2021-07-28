@@ -1,0 +1,4 @@
+* stata.toc
+v 3
+d Commands to assist with version control, and to add dates to the end of file names
+p version_control

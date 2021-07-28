@@ -1,0 +1,6 @@
+* version_control.pkg
+v 3
+d version_control
+d  Commands to assist with version control, and to add dates to the end of file names
+f version_control.ado
+f version_control.sthlp
